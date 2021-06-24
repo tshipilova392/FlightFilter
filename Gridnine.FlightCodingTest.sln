@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridnineSystemsTask", "GridnineSystemsTask\GridnineSystemsTask.csproj", "{6450B8A4-E810-4B4D-A8FD-B091BF8179A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridnineSystemsTaskTests", "GridnineSystemsTaskTests\GridnineSystemsTaskTests.csproj", "{43EAA983-71AC-4231-98B1-0312CC1A103F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6450B8A4-E810-4B4D-A8FD-B091BF8179A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6450B8A4-E810-4B4D-A8FD-B091BF8179A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6450B8A4-E810-4B4D-A8FD-B091BF8179A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6450B8A4-E810-4B4D-A8FD-B091BF8179A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43EAA983-71AC-4231-98B1-0312CC1A103F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43EAA983-71AC-4231-98B1-0312CC1A103F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43EAA983-71AC-4231-98B1-0312CC1A103F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43EAA983-71AC-4231-98B1-0312CC1A103F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6892E651-06EF-491C-A14B-D5BD25BABFEF}
+	EndGlobalSection
+EndGlobal
